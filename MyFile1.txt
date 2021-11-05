@@ -1,2 +1,4 @@
 Modificia 1 da repository locale
 modifica 2 da remoto
+
+Modificia 1 da repository locale nel ramo MyBranch1
