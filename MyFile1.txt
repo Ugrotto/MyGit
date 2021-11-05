@@ -5,3 +5,6 @@ Modificia 1 da repository locale nel ramo MyBranch1
 
 Modificia da locale master
 
+
+
+Modificia da locale master 2 (conflitto)
