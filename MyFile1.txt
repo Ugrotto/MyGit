@@ -3,4 +3,12 @@ modifica 2 da remoto
 
 Modificia 1 da repository locale nel ramo MyBranch1
 
+
 modifica conflittuale branch2
+
+Modificia da locale master
+
+
+
+Modificia da locale master 2 (conflitto)
+
